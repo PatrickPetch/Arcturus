@@ -11,7 +11,6 @@ function NavBar() {
                     <Nav className="mr-auto"></Nav>
                     <Nav>
                         <Nav.Link href="#home">Home</Nav.Link>
-                        <Nav.Link href="#news">News</Nav.Link>
                         <Nav.Link href="#about">About</Nav.Link>
                         <NavDropdown title="Project" id="collasible-nav-dropdown">
                             <NavDropdown.Item href="#new-dawn">New Dawn</NavDropdown.Item>
