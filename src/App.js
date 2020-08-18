@@ -4,7 +4,10 @@ import './App.scss';
 function App() {
   return (
     <div className="App">
-        HelloWorld
+      <p>
+          Hello World :)
+          Welcome to SEDS - NTU
+      </p>
     </div>
   );
 }
